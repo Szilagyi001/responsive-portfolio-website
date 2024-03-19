@@ -1172,11 +1172,11 @@ body.dark-theme {
   }
 
   .contact__social-description-1 {
-    color: var(--text-color);
+    color: var(--text-color-light);
   }
 
   .contact__social-description-2 {
-    color: var(--title-color);
+    color: var(--white-color);
   }
 
   .dark-theme .contact__social-arrow {
